@@ -1,0 +1,5 @@
+{
+  "name": "The Neon Optical Lab",
+  "description": "A high-contrast, interactive virtual optical laboratory for simulating geometric optics. Designed for students to visualize light rays, lenses, and mirrors in real-time.",
+  "requestFramePermissions": []
+}
